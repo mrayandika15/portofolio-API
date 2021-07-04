@@ -1,7 +1,6 @@
 {
     "porto" : [
         {
-            "id" : 0,
             "number" : "0",
             "name" : "Marketing Portofolio - Bagas Portofolio Website",
             "role" : ["FrontEnd Website" , "BackEnd Website"],
@@ -14,7 +13,7 @@
 
         },
         {
-            "id" : 1,
+
             "number" : "1",
             "name" : "Artist Portofolio - Trenandy Portofolio Website",
             "role" : ["FrontEnd Website" , "BackEnd Website"],
@@ -26,7 +25,6 @@
             "slug": "Artist"
         },
         {
-            "id" : 2,
             "number" : "2",
             "name" : "Company Profile Website - Daramas Perkasa Website",
             "role" : ["FrontEnd Website" , "BackEnd Website"],
