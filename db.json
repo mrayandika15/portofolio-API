@@ -6,7 +6,11 @@
             "role" : ["FrontEnd Website" , "BackEnd Website"],
             "year" : "2020-2021",
             "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
-            "img" : "https://iili.io/oxg4GR.md.png"
+            "img" : "https://iili.io/oxg4GR.md.png",
+            "dir": "/PortoView",
+            "path" : "/PortoView/Marketing",
+            "slug": "Marketing"
+
         },
         {
             "id" : 1,
@@ -14,7 +18,10 @@
             "role" : ["FrontEnd Website" , "BackEnd Website"],
             "year" : "2021",
             "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
-            "img" : "https://iili.io/oxgsaI.md.png"
+            "img" : "https://iili.io/oxgsaI.md.png",
+            "dir": "/PortoView",
+            "path" : "/PortoView/Artist",
+            "slug": "Artist"
         },
         {
             "id" : 2,
@@ -22,7 +29,10 @@
             "role" : ["FrontEnd Website" , "BackEnd Website"],
             "year" : "2021",
             "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. " ,
-            "img" : "https://iili.io/oxgi3N.md.png"
+            "img" : "https://iili.io/oxgi3N.md.png",
+            "dir": "/PortoView",
+            "path" : "/PortoView/Company",
+            "slug": "Company"
         }
     ]
 }
