@@ -9,7 +9,7 @@
             "img" : "https://iili.io/oxg4GR.md.png",
             "dir": "/porto",
             "path" : "/porto/Marketing",
-            "slug": Marketing
+            "slug": "Marketing"
 
         },
         {
@@ -22,9 +22,10 @@
             "img" : "https://iili.io/oxgsaI.md.png",
             "dir": "/porto",
             "path" : "/porto/Artist",
-            "slug": Artist
+            "slug": "Artist"
         },
         {
+
             "number" : "2",
             "name" : "Company Profile Website - Daramas Perkasa Website",
             "role" : ["FrontEnd Website" , "BackEnd Website"],
@@ -33,7 +34,7 @@
             "img" : "https://iili.io/oxgi3N.md.png",
             "dir": "/porto",
             "path" : "/porto/Company",
-            "slug": Company
+            "slug": "Company"
         }
     ]
 }
