@@ -80,7 +80,7 @@
     "personal" : [
         {
             "id" : 0,
-            "number" : "0",
+            "personal" : "0",
             "name" : "MBTI Test",
             "role" : ["FrontEnd Website" , "BackEnd Website"],
             "year" : "2020-2021",
@@ -102,7 +102,7 @@
         },
         {
             "id" : 1,
-            "number" : "1",
+            "personal" : "1",
             "name" : "To do List",
             "role" : "FrontEnd Website",
             "year" : "2020-2021",
@@ -118,7 +118,7 @@
         },
         {
             "id" : 2,
-            "number" : "2",
+            "personal" : "2",
             "name" : "Russun Project",
             "role" : "FrontEnd Website",
             "year" : "2020-2021",
