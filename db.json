@@ -10,7 +10,14 @@
             "img" : "https://iili.io/oxg4GR.md.png",
             "dir": "/porto",
             "path" : "/porto/Marketing",
-            "slug": "Marketing"
+            "slug": "Marketing",
+            "product" : [
+                "https://iili.io/ou8U6x.md.png",
+                "https://iili.io/ou8SGj.md.png",
+                "https://iili.io/ou8r3Q.md.png",
+                "https://iili.io/ou88Cb.md.png",
+                "https://iili.io/ou84aV.md.png"
+            ]
 
         },
         {
@@ -20,10 +27,16 @@
             "role" : ["FrontEnd Website" , "BackEnd Website"],
             "year" : "2021",
             "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
-            "img" : "https://iili.io/oxgsaI.md.png",
+            "img" : "https://iili.io/oxgi3N.md.png",
             "dir": "/porto",
             "path" : "/porto/Artist",
-            "slug": "Artist"
+            "slug": "Artist",
+            "product" : [
+                "https://iili.io/ou8b6v.md.png",
+                "https://iili.io/ou8yap.md.png",
+                "https://iili.io/ou8DMJ.md.png",
+                "https://iili.io/ouS98N.md.png",
+            ]
         },
         {
             "id" : 2,
@@ -32,10 +45,91 @@
             "role" : ["FrontEnd Website" , "BackEnd Website"],
             "year" : "2021",
             "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. " ,
-            "img" : "https://iili.io/oxgi3N.md.png",
+            "img" : "https://iili.io/oxgsaI.md.png",
             "dir": "/porto",
             "path" : "/porto/Company",
-            "slug": "Company"
+            "slug": "Company",
+            "product" :[
+                "https://iili.io/ouS7Pj.md.png",
+                "https://iili.io/ouS5Mb.md.png",
+                "https://iili.io/ouSaKx.md.png",
+                "https://iili.io/ouSRou.md.png",
+                "https://iili.io/ouSccQ.md.png"
+            ]
+        },
+        {
+            "id" : 3,
+            "number" : "3",
+            "name" : "Developer Portofolio Website ",
+            "role" : ["FrontEnd Website"],
+            "year" : "2021",
+            "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. " ,
+            "img" : "https://iili.io/oxgsaI.md.png",
+            "dir": "/porto",
+            "path" : "/porto/Developer",
+            "slug": "Developer",
+            "product" :[
+                "https://iili.io/ouSDb9.md.png",
+                "https://iili.io/ouStO7.md.png",
+                "https://iili.io/ouSQJ2.md.png",
+                "https://iili.io/ouSZRS.md.png",
+                "https://iili.io/ouSmxe.md.png"
+            ]
+        }
+    ] ,
+    "personal" : [
+        {
+            "id" : 0,
+            "number" : "0",
+            "name" : "MBTI Test",
+            "role" : ["FrontEnd Website" , "BackEnd Website"],
+            "year" : "2020-2021",
+            "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
+            "img" : "https://iili.io/oxg4GR.md.png",
+            "dir": "/personal",
+            "path" : "/personal/MBTI",
+            "slug": "MBTI",
+            "product" : [
+                "https://iili.io/ouUdUQ.md.png",
+                "https://iili.io/ouU3JV.md.png",
+                "https://iili.io/ouUJ0x.md.png",
+                "https://iili.io/ouUHfj.md.png",
+                "https://iili.io/ouUF5B.md.png",
+                "https://iili.io/ouUKOP.md.png",
+                "https://iili.io/ouUfb1.md.png",
+                "https://iili.io/ouUBzF.md.png"
+            ]
+        },
+        {
+            "id" : 1,
+            "number" : "1",
+            "name" : "To do List",
+            "role" : "FrontEnd Website",
+            "year" : "2020-2021",
+            "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
+            "img" : "https://iili.io/oxg4GR.md.png",
+            "dir": "/personal",
+            "path" : "/personal/TodoList",
+            "slug": "todolist",
+            "product" : [
+                "https://iili.io/ouUz0v.md.png",
+                "https://iili.io/ouUxqJ.md.png",
+            ]
+        },
+        {
+            "id" : 2,
+            "number" : "2",
+            "name" : "Russun Project",
+            "role" : "FrontEnd Website",
+            "year" : "2020-2021",
+            "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
+            "img" : "https://iili.io/oxg4GR.md.png",
+            "dir": "/personal",
+            "path" : "/personal/RussunProject",
+            "slug": "russun",
+            "product" : [
+                "https://iili.io/ouUvrx.md.png"
+            ]
         }
     ]
 }
