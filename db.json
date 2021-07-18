@@ -54,11 +54,11 @@
             "path" : "/porto/Company",
             "slug": "Company",
             "product" :[
-                "https://iili.io/ouS7Pj.md.png",
-                "https://iili.io/ouS5Mb.md.png",
-                "https://iili.io/ouSaKx.md.png",
-                "https://iili.io/ouSRou.md.png",
-                "https://iili.io/ouSccQ.md.png"
+                "https://iili.io/uaeGt4.md.png",
+                "https://iili.io/uaeVol.md.png",
+                "https://iili.io/uaeWV2.md.png",
+                "https://iili.io/uaeENf.md.png",
+                "https://iili.io/uaeXPS.md.png"
             ],
             "website" : "https://company-profile-dara.vercel.app/",
             "source" : "https://github.com/mrayandika15/CompanyProfileDara"
@@ -70,16 +70,16 @@
             "role" : ["FrontEnd Website"],
             "year" : "2021",
             "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. " ,
-            "img" : "https://iili.io/oxgsaI.md.png",
+            "img" : "https://iili.io/uaekAb.md.png",
             "dir": "/porto",
             "path" : "/porto/Developer",
             "slug": "Developer",
             "product" :[
-                "https://iili.io/ouSDb9.md.png",
-                "https://iili.io/ouStO7.md.png",
-                "https://iili.io/ouSQJ2.md.png",
-                "https://iili.io/ouSZRS.md.png",
-                "https://iili.io/ouSmxe.md.png"
+                "https://iili.io/uaeAnp.md.png",
+                "https://iili.io/uaeTtR.md.png",
+                "https://iili.io/uaex9a.md.png",
+                "https://iili.io/uaezAJ.md.png",
+                "https://iili.io/uaeIwv.md.png"
             ],
             "website" : "https://ismailrohaga.github.io/",
             "source" : "https://github.com/mrayandika15/PortoMail"
@@ -91,7 +91,7 @@
             "role" : ["FrontEnd Website" , "BackEnd Website"],
             "year" : "2020-2021",
             "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
-            "img" : "https://iili.io/oxg4GR.md.png",
+            "img" : "https://iili.io/uaeeHu.md.png",
             "dir": "/personal",
             "path" : "/personal/MBTI",
             "slug": "MBTI",
@@ -115,7 +115,7 @@
             "role" : ["FrontEnd Website"],
             "year" : "2020-2021",
             "desc" : " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
-            "img" : "https://iili.io/oxg4GR.md.png",
+            "img" : "https://iili.io/uaewl9.md.png",
             "dir": "/personal",
             "path" : "/personal/TodoList",
             "slug": "todolist",
@@ -138,7 +138,7 @@
             "path" : "/personal/RussunProject",
             "slug": "russun",
             "product" : [
-                "https://iili.io/ouUvrx.md.png"
+                "https://iili.io/uaeNSe.md.png"
             ],
             "website" : "https://mrayandika15.github.io/RussunFrontendTemplate/",
             "source" : "https://github.com/mrayandika15/RussunFrontendTemplate"
