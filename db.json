@@ -17,7 +17,9 @@
                 "https://iili.io/ou8r3Q.md.png",
                 "https://iili.io/ou88Cb.md.png",
                 "https://iili.io/ou84aV.md.png"
-            ]
+            ],
+            "website" : "https://www.bagascreative.com/#/",
+            "source" : "https://github.com/mrayandika15/BagasFinal"
 
         },
         {
@@ -36,7 +38,9 @@
                 "https://iili.io/ou8yap.md.png",
                 "https://iili.io/ou8DMJ.md.png",
                 "https://iili.io/ouS98N.md.png"
-            ]
+            ],
+            "website" : "https://www.trenandy.com/",
+            "source" : "https://github.com/mrayandika15/ArtistApp"
         },
         {
             "id" : 2,
@@ -55,7 +59,9 @@
                 "https://iili.io/ouSaKx.md.png",
                 "https://iili.io/ouSRou.md.png",
                 "https://iili.io/ouSccQ.md.png"
-            ]
+            ],
+            "website" : "https://company-profile-dara.vercel.app/",
+            "source" : "https://github.com/mrayandika15/CompanyProfileDara"
         },
         {
             "id" : 3,
@@ -74,7 +80,9 @@
                 "https://iili.io/ouSQJ2.md.png",
                 "https://iili.io/ouSZRS.md.png",
                 "https://iili.io/ouSmxe.md.png"
-            ]
+            ],
+            "website" : "https://ismailrohaga.github.io/",
+            "source" : "https://github.com/mrayandika15/PortoMail"
         },
         {
             "id" : 4,
@@ -96,7 +104,9 @@
                 "https://iili.io/ouUKOP.md.png",
                 "https://iili.io/ouUfb1.md.png",
                 "https://iili.io/ouUBzF.md.png"
-            ]
+            ],
+            "website" : "https://sistempakarmbti.000webhostapp.com/",
+            "source" : "https://github.com/mrayandika15/sistem-pakar-mbti"
         },
         {
             "id" : 5,
@@ -112,7 +122,9 @@
             "product" : [
                 "https://iili.io/ouUz0v.md.png",
                 "https://iili.io/ouUxqJ.md.png"
-            ]
+            ],
+            "website" : "https://mrayandika15.github.io/ToDoListPractice/",
+            "source" : "https://github.com/mrayandika15/ToDoListPractice"
         },
         {
             "id" : 6,
@@ -127,7 +139,9 @@
             "slug": "russun",
             "product" : [
                 "https://iili.io/ouUvrx.md.png"
-            ]
+            ],
+            "website" : "https://mrayandika15.github.io/RussunFrontendTemplate/",
+            "source" : "https://github.com/mrayandika15/RussunFrontendTemplate"
         }
     ]
 }
